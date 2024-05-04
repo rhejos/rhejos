@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rhea Joseph</h1>
 <h3 align="center">A passionate data engineer just having fun coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
