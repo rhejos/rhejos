@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)](https://rishavchanda.io)
-<h2 align="center"> Hi, I'm Rhea Joseph! <img src="https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width="50"></h2>
-<h3 align="center">A passionate data engineer just having fun coding!</h3>
+<h2 align="center"> Hi, I'm Rhea Joseph!</h2>
+<h3 align="center">A passionate data engineer just having fun code! </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhejos&label=Profile%20views&color=0e75b6&style=flat" alt="rhejos" /> </p>
