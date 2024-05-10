@@ -16,11 +16,12 @@
 ```javascript
 const Rhea = {
   pronouns: "she" | "her",
+  title: Data Engineer
   code: [Python, Spark, C++, HTML, Javascript],
   tools: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
 
- challenge:"#100DaysOfCode "
+ challenge:"I am doing the #100DaysOfCode sharpen my current skills "
 }
 ```
 
