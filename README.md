@@ -20,7 +20,7 @@ const Rhea = {
   tools: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
 
- challenge: "Do #100DaysOfCode to sharpen my current skill set"
+ challenge:"Do #100DaysOfCode to sharpen my current skill set"
 }
 ```
 
