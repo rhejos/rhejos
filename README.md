@@ -17,10 +17,11 @@
 const Rhea = {
   pronouns: "she" | "her",
   title: Data Engineer
-  code: [Python, Spark, C++, HTML, Javascript],
-  tools: [Domino, Scality, Oracle],
+  expertise 👩🏽‍🔬: ETLs , Data Pipelines, Validation , Data Governance
+  code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
+  tools 🛠️: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
-
+  interests: [data management, quality testing, cybersecurity]
  challenge:"I am doing the #100DaysOfCode sharpen my skills "
 }
 ```
