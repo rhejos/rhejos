@@ -16,12 +16,12 @@
 ```javascript
 const Rhea = {
   pronouns: "she" | "her",
-  title: Data Engineer
-  expertise 👩🏽‍🔬: ETLs , Data Pipelines, Validation , Data Governance
+  title: Data_Engineer
+  expertise 👩🏽‍🔬: ETLs , Data_Pipelines, Validation , Data_Governance
   code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
   tools 🛠️: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
-  interests: [data management, quality testing, cybersecurity]
+  interests: [Data_management, Quality_Testing, Cybersecurity]
  challenge:"I am doing the #100DaysOfCode sharpen my skills "
 }
 ```
