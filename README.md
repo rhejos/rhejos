@@ -17,7 +17,7 @@
 const Rhea = {
   pronouns: "she" | "her",
   title: Data_Engineer
-  expertise 👩🏽‍🔬: ETLs , Data_Pipelines, Validation , Data_Governance
+  expertise 👩🏽‍🔬: [ETLs , Data_Pipelines, Validation , Data_Governance]
   code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
   tools 🛠️: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
