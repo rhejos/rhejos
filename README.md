@@ -21,8 +21,8 @@ const Rhea = {
   code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
   tools 🛠️: [Domino, Scality, Oracle],
   devops: ["AWS S3", "Bash"],
-  interests: [Data_management, Quality_Testing, Cybersecurity]
- challenge:"I am doing the #100DaysOfCode sharpen my skills "
+  interests: [Data_management, Data_Governance, Quality_Testing, Cybersecurity]
+ challenge:"I am doing the 10 projects to sharpen my skills "
 }
 ```
 
