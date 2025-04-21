@@ -19,10 +19,10 @@ const Rhea = {
   title: Data_Engineer
   expertise 👩🏽‍🔬: [ETLs , Data_Pipelines, Validation , Data_Governance]
   code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
-  tools 🛠️: [Domino, Scality, Oracle],
+  tools 🛠️: [Domino, Scality, AWS _agemaker, Jenkins, Splunk, Sigma, MITRE_ATT&CK, Bash, YAML],
   devops: ["AWS S3", "Bash"],
-  interests: [Data_management, Data_Governance, Quality_Testing, Cybersecurity]
- challenge:"I am doing the 10 projects to sharpen my skills "
+  interests: [Cybersecurity, Data_Engineering, Data_management, Data_Governance, Quality_Testing]
+  goals:[CompTIA Security+ (in progress), Junior SOC Analyst certification path (SIEM, IDS/IPS, IR), Daily lab practice on detection engineering and threat hunting]
 }
 ```
 
