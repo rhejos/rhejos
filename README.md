@@ -42,5 +42,5 @@ const Rhea = {
 
 ## 📂 Projects
 
-### [Text Analysis & AI Humanizer](https://github.com/rhejos/text-analysis-humanizer)
+### [Text Analysis & AI Humanizer](https://github.com/rhejos/text-humanizer-analysis)
 A comprehensive Python tool for bias detection, AI text humanization, professional formatting, and text quality analysis. Features bias detection across 6 categories, AI-to-human text transformation, multiple document formats (MLA, essays, letters, resumes), and detailed quality metrics.
