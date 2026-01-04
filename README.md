@@ -16,13 +16,14 @@
 ```javascript
 const Rhea = {
   pronouns: "she" | "her",
-  title: Data_Engineer
-  expertise 👩🏽‍🔬: [ETLs , Data_Pipelines, Validation , Data_Governance]
-  code 👩🏽‍💻: [Python, Spark, C++, HTML, Javascript],
-  tools 🛠️: [Domino, Scality, AWS _agemaker, Jenkins, Splunk, Sigma, MITRE_ATT&CK, Bash, YAML],
-  devops: ["AWS S3", "Bash"],
-  interests: [Cybersecurity, Data_Engineering, Data_management, Data_Governance, Quality_Testing]
-  goals:[CompTIA Security+ (in progress), Junior SOC Analyst certification path (SIEM, IDS/IPS, IR), Daily lab practice on detection engineering and threat hunting]
+  title: Compliance_&_Risk_Operations | Data_Engineering,
+  expertise 👩🏽‍🔬: [Escalation_Review, Data_Governance, Risk_Assessment, ETL_Pipelines, Data_Validation],
+  code 👩🏽‍💻: [Python, SQL, Spark, PySpark, C++, HTML, Javascript],
+  tools 🛠️: [AWS, ServiceNow, Splunk, Jira, Confluence, Sigma, MITRE_ATT&CK, Bash, YAML],
+  devops: [AWS_S3, AWS_IAM, AWS_GuardDuty, AWS_KMS],
+  interests: [Compliance_&_Risk, GRC, AI_Safety, Cybersecurity, Data_Engineering],
+  building: [Compliance_Training_Framework, LLM_Evaluation_Tool],
+  goals: [CompTIA_Security+, AWS_Cloud_Practitioner, Financial_Services_Compliance]
 }
 ```
 
